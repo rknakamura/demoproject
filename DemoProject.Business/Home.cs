@@ -17,8 +17,8 @@ namespace DemoProject.Business
         {
             var model = _repo.GetHome();
 
-            model.Button.ToUpper();
-            model.Title.ToUpper();
+            model.Button = model.Button.ToUpper();
+            model.Title = model.Title.ToUpper();
 
             return model;
         }
