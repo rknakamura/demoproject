@@ -1,0 +1,12 @@
+C:\Git\DemoProject\DemoProject.Repository\bin\Debug\DemoProject.Repository.dll.config
+C:\Git\DemoProject\DemoProject.Repository\bin\Debug\DemoProject.Repository.dll
+C:\Git\DemoProject\DemoProject.Repository\bin\Debug\DemoProject.Repository.pdb
+C:\Git\DemoProject\DemoProject.Repository\bin\Debug\DemoProject.Business.dll
+C:\Git\DemoProject\DemoProject.Repository\bin\Debug\EntityFramework.dll
+C:\Git\DemoProject\DemoProject.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Git\DemoProject\DemoProject.Repository\bin\Debug\DemoProject.Business.pdb
+C:\Git\DemoProject\DemoProject.Repository\bin\Debug\EntityFramework.xml
+C:\Git\DemoProject\DemoProject.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Git\DemoProject\DemoProject.Repository\obj\Debug\DemoProject.Repository.csprojResolveAssemblyReference.cache
+C:\Git\DemoProject\DemoProject.Repository\obj\Debug\DemoProject.Repository.dll
+C:\Git\DemoProject\DemoProject.Repository\obj\Debug\DemoProject.Repository.pdb

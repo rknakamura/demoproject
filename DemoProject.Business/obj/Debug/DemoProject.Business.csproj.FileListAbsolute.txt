@@ -1,0 +1,5 @@
+C:\Git\DemoProject\DemoProject.Business\bin\Debug\DemoProject.Business.dll
+C:\Git\DemoProject\DemoProject.Business\bin\Debug\DemoProject.Business.pdb
+C:\Git\DemoProject\DemoProject.Business\obj\Debug\DemoProject.Business.csprojResolveAssemblyReference.cache
+C:\Git\DemoProject\DemoProject.Business\obj\Debug\DemoProject.Business.dll
+C:\Git\DemoProject\DemoProject.Business\obj\Debug\DemoProject.Business.pdb
