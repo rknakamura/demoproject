@@ -15,7 +15,12 @@ namespace DemoProject.Business
 
         public HomeModel GetHome()
         {
-            return _repo.GetHome();
+            var model = _repo.GetHome();
+
+            model.Button.ToUpper();
+            model.Title.ToUpper();
+
+            return model;
         }
     }
 }
